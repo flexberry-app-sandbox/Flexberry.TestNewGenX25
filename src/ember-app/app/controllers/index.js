@@ -22,25 +22,25 @@ export default Controller.extend({
             link: 'new-platform-test-new-gen-x2-country-l',
             caption: i18n.t('forms.application.sitemap.books.new-platform-test-new-gen-x2-country-l.caption'),
             title: i18n.t('forms.application.sitemap.books.new-platform-test-new-gen-x2-country-l.title'),
-            icon: 'table',
+            icon: 'chart line',
             children: null
           }, {
             link: 'new-platform-test-new-gen-x2-book-l',
             caption: i18n.t('forms.application.sitemap.books.new-platform-test-new-gen-x2-book-l.caption'),
             title: i18n.t('forms.application.sitemap.books.new-platform-test-new-gen-x2-book-l.title'),
-            icon: 'address card',
+            icon: 'chart line',
             children: null
           }, {
             link: 'new-platform-test-new-gen-x2-author-l',
             caption: i18n.t('forms.application.sitemap.books.new-platform-test-new-gen-x2-author-l.caption'),
             title: i18n.t('forms.application.sitemap.books.new-platform-test-new-gen-x2-author-l.title'),
-            icon: 'chart line',
+            icon: 'suitcase',
             children: null
           }, {
             link: 'new-platform-test-new-gen-x2-language-l',
             caption: i18n.t('forms.application.sitemap.books.new-platform-test-new-gen-x2-language-l.caption'),
             title: i18n.t('forms.application.sitemap.books.new-platform-test-new-gen-x2-language-l.title'),
-            icon: 'folder',
+            icon: 'phone',
             children: null
           }]
         }
