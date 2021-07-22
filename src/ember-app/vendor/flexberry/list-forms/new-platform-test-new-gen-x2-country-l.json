@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "new-platform-test-new-gen-x2-country-e",
+  "editForm": "new-platform-test-new-gen-x2-country-e",
+  "external": false,
+  "caption": "Country",
+  "name": "NewPlatformTestNewGenX2CountryL",
+  "className": "CountryL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "new-platform-test-new-gen-x2-country",
+      "modelProjection": "CountryL"
+    }
+  ]
+}

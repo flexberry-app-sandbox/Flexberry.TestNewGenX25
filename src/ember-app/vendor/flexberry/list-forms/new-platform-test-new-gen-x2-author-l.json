@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "new-platform-test-new-gen-x2-author-e",
+  "editForm": "new-platform-test-new-gen-x2-author-e",
+  "external": false,
+  "caption": "Author",
+  "name": "NewPlatformTestNewGenX2AuthorL",
+  "className": "AuthorL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "new-platform-test-new-gen-x2-author",
+      "modelProjection": "AuthorL"
+    }
+  ]
+}

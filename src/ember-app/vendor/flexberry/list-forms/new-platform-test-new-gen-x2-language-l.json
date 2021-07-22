@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "new-platform-test-new-gen-x2-language-e",
+  "editForm": "new-platform-test-new-gen-x2-language-e",
+  "external": false,
+  "caption": "Language",
+  "name": "NewPlatformTestNewGenX2LanguageL",
+  "className": "LanguageL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "new-platform-test-new-gen-x2-language",
+      "modelProjection": "LanguageL"
+    }
+  ]
+}

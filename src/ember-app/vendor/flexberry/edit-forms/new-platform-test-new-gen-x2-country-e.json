@@ -1,0 +1,14 @@
+﻿{
+  "propertyLookup": [],
+  "external": false,
+  "caption": "Country",
+  "name": "NewPlatformTestNewGenX2CountryE",
+  "className": "CountryE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "new-platform-test-new-gen-x2-country",
+      "modelProjection": "CountryE"
+    }
+  ]
+}

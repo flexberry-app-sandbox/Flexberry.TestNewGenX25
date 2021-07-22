@@ -1,0 +1,1 @@
+docker-compose -p testnewgenx2 up -d

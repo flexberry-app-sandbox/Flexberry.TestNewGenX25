@@ -1,0 +1,14 @@
+﻿{
+  "propertyLookup": [],
+  "external": false,
+  "caption": "Author",
+  "name": "NewPlatformTestNewGenX2AuthorE",
+  "className": "AuthorE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "new-platform-test-new-gen-x2-author",
+      "modelProjection": "AuthorE"
+    }
+  ]
+}

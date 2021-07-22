@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestNewGenX2.ODataBackend", "../../src/TestNewGenX2/ODataBackend/TestNewGenX2.ODataBackend.csproj", "{72A554B1-57E8-4C98-82B3-50E5F54F6970}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestNewGenX2.Objects", "../../src/TestNewGenX2/Objects/TestNewGenX2.Objects.csproj", "{AA6AAC08-C7F3-4E9D-AB3C-857B61901457}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+Debug|Any CPU = Debug|Any CPU
+Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72A554B1-57E8-4C98-82B3-50E5F54F6970}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72A554B1-57E8-4C98-82B3-50E5F54F6970}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72A554B1-57E8-4C98-82B3-50E5F54F6970}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72A554B1-57E8-4C98-82B3-50E5F54F6970}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA6AAC08-C7F3-4E9D-AB3C-857B61901457}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA6AAC08-C7F3-4E9D-AB3C-857B61901457}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA6AAC08-C7F3-4E9D-AB3C-857B61901457}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA6AAC08-C7F3-4E9D-AB3C-857B61901457}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
